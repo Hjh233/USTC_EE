@@ -1,2 +1,2 @@
 # USTC_EE
-The repository contains some experiments of several courses of electronic information engineering in USTC
+The repository contains some experiment implementation of certain courses for students majoring in Electronic Information Engineering in USTC
